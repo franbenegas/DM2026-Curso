@@ -1,19 +1,6 @@
+# Agenda Tentativa
+
 El curso se encuentra en desarrollo y el siguiente programa tentativo puede cambiar a medida que se desarrolla el cuatrimestre.
-
-:::{table} Table caption
-:label: table
-:align: center
-
-| Duracion | bar |
-| --- | --- |
-| Modalidad de enseñanza | Teórico-práctica  |
-| Duración | 8 semanas  |
-| Cantidad de clases semanales | 2 |
-| Carga horaria total | 4 horas semanales |
-| Es también curso de doctorado | Si |
-
-
-
 
 :::{table} Agenda tentativa de la materia
 :label: table
