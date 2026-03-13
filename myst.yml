@@ -20,6 +20,7 @@ project:
       children:
         - file: proyecto/general_info.md
     - file: referencias.md
+    - file: contribucion.md
     - file: preguntas_frecuentes.md
 site:
   template: book-theme
