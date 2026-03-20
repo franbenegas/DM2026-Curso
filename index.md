@@ -7,7 +7,13 @@ Materia optativa para la Lic., Prof. y Doc en Cs. Matemáticas, Lic. y Doc. en C
 
 **Profesor:** [Facundo Sapienza](https://facusapienza.org)
 
-*Contacto:* [sapienza@stanford.edu](mailto:sapienza@stanford.edu)
+*Contacto:* [fsapienza@dm.uba.ar](mailto:fsapienza@dm.uba.ar)
+
+:::{warning} Inicio de clases
+Las clases están previstas arrancar para el ***lunes 30 de marzo***.
+Puede que la fecha del inicio de clases se vea afectada si el paro se extiende.
+En caso de haber cambios en el inicio de clases, el mismo se comunicara por email a todos los estudiantes que hayan completado la encuesnta del curso y también se actializara la información en este sitio web (revisar `Anuncios`).
+:::
 
 ## Introducción
 
