@@ -1,5 +1,20 @@
 # Anuncios
 
+:::{important} 27/03/2026 - Inicio de clases postergado
+:class: dropdown
+Queridos estudiantes,
+
+Les escribo para comunicarles que no comenzaremos las clases la próxima semana (lunes 30 de marzo y miércoles 1 de abril) debido a la continuación de los paros convocados por los gremios docentes de la UBA.
+
+De normalizarse la situación, la idea es comenzar las clases la semana del 8 de abril.
+Los mantendré informados.
+Recuerden que todas las noticias del curso se mantendrán actualizadas en la página web del curso.
+
+Saludos,
+
+Facu
+:::
+
 :::{important} 20/03/2026 - Inicio de clases postergado
 :class: dropdown
 Queridos estudiantes,
