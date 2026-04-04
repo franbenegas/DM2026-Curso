@@ -1,5 +1,19 @@
 # Anuncios
 
+:::{important} 04/04/2026 - Inicio de clases postergado
+:class: dropdown
+Queridos estudiantes,
+
+Les escribo para comunicarles que no comenzaremos las clases el próximo lunes 6 de abril debido a la continuación de los paros.
+Me comunicaré con ustedes al inicio de la próxima semana para ver si comenzamos o no las clases el miércoles 8 de abril. 
+
+Lamento mucho la situación con respecto al inicio de clases y la postergación de las mismas, y gracias por comprender la delicada situación en la cual se encuentra la universidad y los motivos detrás de los paros. 
+
+Saludos,
+
+Facu
+:::
+
 :::{important} 27/03/2026 - Inicio de clases postergado
 :class: dropdown
 Queridos estudiantes,

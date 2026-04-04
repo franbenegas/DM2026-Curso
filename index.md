@@ -10,7 +10,7 @@ Materia optativa para la Lic., Prof. y Doc en Cs. Matemáticas, Lic. y Doc. en C
 *Contacto:* [fsapienza@dm.uba.ar](mailto:fsapienza@dm.uba.ar)
 
 :::{warning} Inicio de clases
-Las clases están previstas arrancar para el ***lunes 6 de abril***.
+Las clases están previstas arrancar para el ***miércoles 8 de abril***.
 Puede que la fecha del inicio de clases se vea afectada si el paro se extiende.
 En caso de haber cambios en el inicio de clases, el mismo se comunicara por email a todos los estudiantes que hayan completado la encuesta del curso y también se actualizará la información en este sitio web (revisar `Anuncios`).
 :::
