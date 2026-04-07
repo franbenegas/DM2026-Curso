@@ -4,6 +4,29 @@
 :class: dropdown
 Queridos estudiantes,
 
+Les escribo para comunicarles que tendremos un primer encuentro de la materia mañana miércoles 8 de abril a las 12hrs en el aula 1205 del Cero Más Infinito.
+La idea es que nos podamos conocer y luego introducir la materia.
+Vamos a hablar de la motivación detrás del curso y una breve introducción al physics-informed machine learning.
+Vamos a tener tiempo también a conversar sobre la modalidad del curso y responder cualquier duda que tengan.
+
+En acuerdo con los paros convocados para esta semana, mañana tendremos una clase más bien corta e introductoria.
+La clase durará desde las 12 hrs hasta las 13:15 hrs. A las 13:30 hrs habrá una charla informativa en el aula magna del Pabellón 2 con respecto a la situación salarial y presupuestaria (más información en este [link](https://exactas.uba.ar/agenda/)). 
+Invito a quienes estén interesadas/os en la misma a participar.
+
+Espero verlos mañana en el aula,
+
+Saludos,
+
+Facu
+
+P.D.: Es posible que se grabe la primera clase, pero por favor no dar garantía de lo mismo dado que va a depender de poder conseguir los materiales para grabar la clase.
+En caso de haber una grabación, la compartiré con todos ustedes.
+:::
+
+:::{important} 04/04/2026 - Inicio de clases postergado
+:class: dropdown
+Queridos estudiantes,
+
 Les escribo para comunicarles que no comenzaremos las clases el próximo lunes 6 de abril debido a la continuación de los paros.
 Me comunicaré con ustedes al inicio de la próxima semana para ver si comenzamos o no las clases el miércoles 8 de abril. 
 
