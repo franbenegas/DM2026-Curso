@@ -17,6 +17,9 @@ project:
         - file: general/agenda.md
         - file: general/requisitos.md
     - file: anuncios.md
+    - title: Clases
+      children:
+        - file: clases/clase1.md
     - title: Projecto Final
       children:
         - file: proyecto/general_info.md
