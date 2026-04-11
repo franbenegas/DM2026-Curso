@@ -1,5 +1,22 @@
 # Anuncios
 
+:::{important} 11/04/2026 - Segunda semana
+:class: dropdown
+Queridos estudiates, 
+
+Nos vemos el próximo lunes 13 a las 12hrs para el segundo encuentro de la materia. 
+
+Como les mencione la primera clase, la idea es que vayamos completando los apuntes de la materia juntos en el formato de pull requests en GitHub.
+Voy a explicar mejor como esto funciona la proxima clase, pero por el momento necesito si algunos de ustedes se pueden anotar para las notas de la primera clase y las clases de la próxima semana.
+Por ahora, vamos a hacer dos estudiantes encargados de cada clase.
+Toda la información al respecto el próximo lunes. 
+
+Saludos y buen fin de semana,
+Facu
+
+P.D.: Los dejo con un [video](https://www.youtube.com/watch?v=ghC-Ut0fW4o) corto sobre cómo los glaciares se mueve, por si se quedaron con ganas de ver más.
+:::
+
 :::{important} 07/04/2026 - Primer encuentro
 :class: dropdown
 Queridos estudiantes,
