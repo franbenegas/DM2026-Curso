@@ -9,8 +9,9 @@
     - Physics-Informed Neural Networs (PINNs): {cite}`Raissi_Perdikaris_Karniadakis_2019`
     - Universal Differential Equations (UDEs): {cite}`rackauckas2020universal`
 
-- Programación diferencial
+- Programación diferenciable
     - {cite}`Sapienza_2024`
+    - {cite}`blondel2024elements`
 
 - Aplicaciones en geofísica
     - Glaciología: {cite}`Bolibar_Sapienza_2023`

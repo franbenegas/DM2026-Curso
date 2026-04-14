@@ -25,6 +25,7 @@ project:
     - title: Projecto Final
       children:
         - file: proyecto/general_info.md
+    - file: glossario.md
     - file: referencias.md
     - file: contribucion.md
     - file: preguntas_frecuentes.md
