@@ -46,7 +46,3 @@ El curso esta diseñado para balancear estos tres elementos, de manera tal que e
 ::: -->
 
 
-:::{note} Nota
-Este curso se encuentra en desarrollo! Saber disculpar si hay aún información no disponible.
-:::
-
