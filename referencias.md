@@ -1,6 +1,6 @@
 # Bibliografía
 
-- Métodos estadísticos aplicados a ecuaciones diferenciales y sistemas dinámicos
+- Métodos estadísticos
     - {cite}`ramsay2017dynamic`: Específico a ecuaciones diferenciales y sistemas dinámicos.
     - {cite}`hastie2009elements`: Referencia bibliografica de preferencia para referencia (corta) a metodos de estadística y aprendizaje automático.
     - {cite}`pml1Book`: Referencia moderna con un monton de material. Bueno para referncia rápida.
