@@ -1,5 +1,5 @@
 ---
-title: Clase No2 - ODEs y NODEs
+title: No2 - ODEs y NODEs
 ---
 
 

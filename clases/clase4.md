@@ -1,5 +1,5 @@
 ---
-title: Clase No4 - Métodos numéricos
+title: No4 - Métodos numéricos
 ---
 
 # Métodos Numéricos
