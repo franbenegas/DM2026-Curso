@@ -6,6 +6,6 @@ title: No4 - Métodos numéricos
 
 **Fecha:** 20/04/2026
 
-:::{iframe} https://www.youtube.com/watch?v=Rdvz8KRA1JQ
+:::{iframe} https://www.youtube.com/embed/Rdvz8KRA1JQ
 :width: 100%
 :::
