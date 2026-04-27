@@ -15,18 +15,22 @@
 
 :::{warning} Trabajo en progreso
 Todavía no hay información al respecto!
+:::
 
 ## Cómo presentar el proyecto
 
 :::{warning} Trabajo en progreso
 Todavía no hay información al respecto!
+:::
 
 ## Entrega
 
 :::{warning} Trabajo en progreso
 Todavía no hay información al respecto!
+:::
 
 ## Evaluación
 
 :::{warning} Trabajo en progreso
 Todavía no hay información al respecto!
+:::
