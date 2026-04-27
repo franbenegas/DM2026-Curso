@@ -107,6 +107,7 @@ Al momento de abrir un PR para contribuir a la materia, por favor tener en cuent
 - 🖼️ Pueden incluir imágenes o figuras en las notas (de hecho, mucho mejor si lo hacen!). En tal caso, por favor incluir imágenes dentro de la carpeta [`images`](images).
 - 💻 En caso de que en la clase se haya mostrado código, por favor incluir en las notas el link al mismo y también las líneas de código mencionadas (myst deja poner código!). En vez de simplemente copiar y pegar el código, tratar de partir el mismo en bloques explicando qué está pasando en el mismo y qué se fue explicando durante la clase.
 - 📚 Notar que en las notas se pueden poner palabras clave que luego pueden ser incluidas en el [glosario](glossario.md).
+- 📖 En caso de necesitar una referencia bibliográfica, ¡por favor citarla! También se pueden agregar nuevas citas en el archivo [`bibliography.bib`](bibliography.bib).
 - 🏅 Agregar sus nombres junto con sus usuarios de GitHub en la [tabla al final del `README`](README.md). De esta manera podemos llevar un conteo de quienes ya han contribuido a la materia y también podemos dar crédito por el trabajo de los estudiantes.
 
 ¡Así es como se trabaja en GitHub! Bienvenido al mundo del software abierto. 🚀
