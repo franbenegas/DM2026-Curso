@@ -96,7 +96,7 @@ Para ello, tenemos una planilla donde los estudiantes deben anotar su nombre y a
 Idealmente, dos estudiantes se deben encargar de las notas de cada clase.
 
 :::{warning}
-En caso de no estar familiarizado con cómo contribuir a un repositorio en GitHub, por favor leer cuidadosamente las notas previas.
+En caso de no estar familiarizado con cómo contribuir a un repositorio en GitHub, por favor leer cuidadosamente las secciones [Reportar un problema](#reportar-un-problema-issue) y [Proponer cambios al material](#proponer-cambios-al-material-pull-request).
 Todo el contenido necesario y los links útiles se encuentran ahí!
 :::
 
@@ -106,7 +106,7 @@ Al momento de abrir un PR para contribuir a la materia, por favor tener en cuent
 - ✨ No es necesario volverse un experto en myst para poder contribuir a la página web, pero recomiendo que vean la planilla de myst en la página web y cómo la misma fue generada. Myst es super elegante para escribir! Pueden usar cuantas herramientas quieran para que la página web quede lo mejor posible.
 - 🖼️ Pueden incluir imágenes o figuras en las notas (de hecho, mucho mejor si lo hacen!). En tal caso, por favor incluir imágenes dentro de la carpeta `images`.
 - 💻 En caso de que en la clase se haya mostrado código, por favor incluir en las notas el link al mismo y también las líneas de código mencionadas (myst deja poner código!). En vez de simplemente copiar y pegar el código, tratar de partir el mismo en bloques explicando qué está pasando en el mismo y qué se fue explicando durante la clase.
-- 📚 Notar que en las notas se pueden poner palabras clave que luego pueden ser incluidas en el glosario.
-- 🏅 Agregar sus nombres junto con sus usuarios de GitHub en la tabla al final del `README`. De esta manera podemos llevar un conteo de quienes ya han contribuido a la materia y también podemos dar crédito por el trabajo de los estudiantes.
+- 📚 Notar que en las notas se pueden poner palabras clave que luego pueden ser incluidas en el [glosario](glossario.md).
+- 🏅 Agregar sus nombres junto con sus usuarios de GitHub en la [tabla al final del `README`](README.md). De esta manera podemos llevar un conteo de quienes ya han contribuido a la materia y también podemos dar crédito por el trabajo de los estudiantes.
 
 ¡Así es como se trabaja en GitHub! Bienvenido al mundo del software abierto. 🚀
