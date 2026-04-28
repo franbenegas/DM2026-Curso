@@ -34,17 +34,25 @@ Los proyectos de naturaleza teórica son más que bienvenidos. En ese caso, se e
 La presentación de proyectos por parte de los estudiantes se realizará mediante un Issue en el [repositorio de la materia](https://github.com/facusapienza21/DM2026-Curso).
 Para ver cómo abrir un issue, consultar la sección [Reportar un problema](../contribucion.md#reportar-un-problema-issue) en la página de contribución.
 
-:::{tip} Plantilla para la propuesta
-Para facilitar la presentación, pueden abrir directamente un issue con la plantilla predefinida haciendo click [aquí](https://github.com/facusapienza21/DM2026-Curso/issues/new?template=proyecto.md).
+:::{important} Plantilla para la propuesta
+La propuesta debe abrirse usando la plantilla predefinida haciendo click [aquí](https://github.com/facusapienza21/DM2026-Curso/issues/new?template=proyecto.md).
+Por favor mantener la estructura general de la misma (titulo, integrantes), pero sentirse libre de agregar cuanta información sea necesaria en la descripción del proyecto.
 :::
+
+El issue también puede usarse como espacio de conversación para discutir y refinar el proyecto antes de su aprobación.
+El contenido del issue puede ser modificado por los autores en cualquier momento, por lo que no es necesario completarlo todo de una sola vez.
 
 El proceso de creación del proyecto tiene dos fases:
 
 **Fase 1 — Aprobación del estudiante/grupo** (`Project: assigned`) — fecha límite: **06/05/2026**
-Una vez abierto el issue, el instructor verificará que los integrantes del grupo estén correctamente registrados. Al aprobar el grupo, el issue recibirá la etiqueta `Project: assigned`. Esto **no** implica que el contenido del proyecto haya sido aprobado.
+Una vez abierto el issue, el instructor verificará que los integrantes del grupo estén correctamente registrados.
+Al aprobar el grupo, el issue recibirá la etiqueta `Project: assigned`.
+Esto **no** implica que el contenido del proyecto haya sido aprobado.
 
 **Fase 2 — Aprobación del contenido** (`Project: validado`) — fecha límite: **12/05/2026**
-El instructor revisará la descripción del proyecto, el dataset y el método propuesto. En caso de ser necesario, se pedirán cambios o aclaraciones a través de comentarios en el issue. Una vez que el contenido sea satisfactorio, el issue recibirá la etiqueta `Project: validado`, lo que indica que el proyecto está oficialmente aprobado y los estudiantes pueden comenzar a trabajar.
+El instructor revisará la descripción del proyecto, el dataset y el método propuesto.
+En caso de ser necesario, se pedirán cambios o aclaraciones a través de comentarios en el issue.
+Una vez que el contenido sea satisfactorio, el issue recibirá la etiqueta `Project: validado`, lo que indica que el proyecto está oficialmente aprobado y los estudiantes pueden comenzar a trabajar.
 
 ## Entrega
 
