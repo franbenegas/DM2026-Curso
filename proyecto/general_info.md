@@ -37,6 +37,7 @@ Para ver cómo abrir un issue, consultar la sección [Reportar un problema](../c
 :::{important} Plantilla para la propuesta
 La propuesta debe abrirse usando la plantilla predefinida haciendo click [aquí](https://github.com/facusapienza21/DM2026-Curso/issues/new?template=proyecto.md).
 Por favor mantener la estructura general de la misma (titulo, integrantes), pero sentirse libre de agregar cuanta información sea necesaria en la descripción del proyecto.
+Para ver un ejemplo de cómo debe verse una propuesta, pueden consultar este [issue de ejemplo](https://github.com/facusapienza21/DM2026-Curso/issues/9).
 :::
 
 El issue también puede usarse como espacio de conversación para discutir y refinar el proyecto antes de su aprobación.
