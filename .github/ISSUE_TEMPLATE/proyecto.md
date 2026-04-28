@@ -2,18 +2,15 @@
 name: Propuesta de Proyecto Final
 about: Usar esta plantilla para presentar la propuesta de proyecto final
 title: "[PROYECTO] NOMBRE EN MAYÚSCULAS - Nombre/s del grupo"
-labels: proyecto
 assignees: facusapienza21
 ---
 
-> ✏️ Reemplazá `NOMBRE EN MAYÚSCULAS` con el nombre de su proyecto en mayúsculas. El número de proyecto se asigna automáticamente.
+## Título del proyecto
 
 ## Integrantes del grupo (máximo 2)
 
 - Nombre completo (@usuario_github)
 - Nombre completo (@usuario_github)
-
-## Título del proyecto
 
 ## Descripción
 
