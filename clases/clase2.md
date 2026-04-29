@@ -146,7 +146,7 @@ Esto permite modelar situaciones en las que no observamos directamente todo el e
 **Características del ruido observacional $\varepsilon_i$.**
 Ejemplos comununes incluyen:
 * **Caso estándar:** Se asume que los ruidos son independientes e idénticamente distribuidos (i.i.d.) de forma Gaussiana $\varepsilon_i \sim N(0, \sigma^2)$, con valor medio nulo y varianza constante para cada sitio muestreado. Se supone que este ruido no depende del valor de $x$, aunque no siempre es cierto.
-* **Ruido correlacionado:** Común en series de tiempo, donde la correlación entre dos errores es distinta de cero: $\mathbb{E}[\varepsilon_i, \varepsilon_j] \neq 0$ para $i \neq j$.
+* **Ruido correlacionado:** Común en series de tiempo, donde la correlación entre dos errores es distinta de cero: $\mathbb{E}[\varepsilon_i \varepsilon_j] \neq 0$ para $i \neq j$.
     * *Nota estadística:* Si dos distribuciones son Gaussianas y tienen correlación $0$, son independientes. Si no son Gaussianas, tener correlación $0$ no implica independencia.
 
 **Ajuste de Trayectorias**
