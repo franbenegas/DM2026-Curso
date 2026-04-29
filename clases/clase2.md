@@ -109,13 +109,13 @@ $$\frac{dy}{dt} = -\beta y + \eta xy$$
 
 Para un mismo estado inicial, distintos valores de $\theta$ producen trayectorias muy distintas, así que estimar $\theta$ es parte central del problema.
 
-:::{figure} ./figures/lv_trayectorias_tiempo.png
+:::{figure} ./figures/no2_lv_trayectorias_tiempo.png
 :width: 100%
 :align: center
 Trayectorias temporales de conejos \(x(t)\) y lobos \(y(t)\) para un mismo estado inicial y distintos valores de \(\theta\).
 :::
 
-:::{figure} ./figures/lv_retratos_fase.png
+:::{figure} ./figures/no2_lv_retratos_fase.png
 :width: 75%
 :align: center
 Retratos de fase del sistema de Lotka--Volterra para distintos valores de \(\theta\).
@@ -136,13 +136,12 @@ Donde:
 * $x(t_i; \theta)$: Estado del modelo dinámico.
 * $\varepsilon_i$: Ruido observacional.
 
-> **Tip:** Observación parcial del estado:
+:::{tip} Observación parcial del estado
 Una generalización muy útil del modelo observacional es
 $z_i^{\mathrm{obs}} = h(u(t_i;\theta)) + \varepsilon_i$,
 donde $h$ es una función de observación.
-Esto permite modelar situaciones en las que no observamos directamente todo el estado del sistema, sino sólo algunas de sus componentes o combinaciones.
-> 
- 
+Esto permite modelar situaciones en las que no observamos directamente todo el estado del sistema, sino sólo algunas de sus componentes o combinaciones.:::
+
 **Características del ruido observacional $\varepsilon_i$.**
 Ejemplos comununes incluyen:
 * **Caso estándar:** Se asume que los ruidos son independientes e idénticamente distribuidos (i.i.d.) de forma Gaussiana $\varepsilon_i \sim N(0, \sigma^2)$, con valor medio nulo y varianza constante para cada sitio muestreado. Se supone que este ruido no depende del valor de $x$, aunque no siempre es cierto.
