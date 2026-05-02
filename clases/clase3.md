@@ -1,5 +1,5 @@
 ---
-title: Clase No3 - UDEs
+title: No3 - UDEs
 ---
 
 # Universal Differential Equations (UDEs)
@@ -69,26 +69,26 @@ Entonces, dados ciertos datos observacionales, la red puede aproximar el comport
 
 :::{note} Obs. 1: Sistemas autónomos
 Un sistema autónomo es aquel en el que el tiempo no aparece explícitamente en las ecuaciones:
-$$
+```{math}
 \frac{du}{dt} = f(u;\theta).
-$$
+```
 Si el sistema depende explícitamente del tiempo,
-$$
+```{math}
 \frac{du}{dt} = f(u,t;\theta),
-$$
+```
 se puede transformar en un sistema autónomo agregando el tiempo como una variable más:
-$$
+```{math}
 \tilde{u} = (u,t) \in \mathbb{R}^{n+1},
-$$
+```
 de modo que
-$$
+```{math}
 \frac{d\tilde{u}}{dt}
 =
 \begin{pmatrix}
 f(u,t;\theta) \\
 1
 \end{pmatrix}.
-$$
+```
 :::
 
 Una red neuronal está compuesta, en general, por tres partes: una capa de entrada, una o más capas ocultas y una capa de salida.
